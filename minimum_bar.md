@@ -6,11 +6,23 @@ In this page you can find a list of minimum requirements that every CTF competit
 # Format and Mechanics
 CTF competitions follow well understood mechanics, as such, it is important that when someone announces a CTF competition open to the public it satisfies players expectations. In specific, when someone uses the terms **Jeopardy-style CTF** or **Attack-Defense CTF**, they should follow the mechanics expected in such competitions. Deviations from these mechanics should be explicitly declared up-front, so players are not surprised when they start playing.
 
-The minimum bar **requirements** for **all CTF competitions** are: The competition should be announced to players early on (at least 2 weeks ahead of time), and it should include the categories of the competition, an approximate number of challenges, and a definite starting time and duration. Organizers should provide a channel in which players are able to quickly reach out to and communicate problems (with tasks or infrastructure), and organizers should be responsive during the competition.
+The minimum bar **requirements** for **all CTF competitions** are: 
+* The competition should be announced to players early on (at least 2 weeks ahead of time)
+* Include the categories of the competition, an approximate number of challenges, and a definite starting time and duration
+* Organizers should provide a channel in which players are able to quickly reach out to and communicate problems (with tasks or infrastructure)
+* Organizers should be responsive during the competition.
 
-The mechanics **requirements** of a **Jeopardy-style CTF** are as follows: The competition presents players a list of challenges. The challenges should at least be labelled by category. Solving the challenge should reveal the player a flag, which follows a predictable format (defined for the competition as a whole, or per-task), and which players can submit to the organizers for points, the form in which points is calculated should be simple. Challenges should either all be released either all at once, or gradually. If released gradually, players should be able to know if all challenges have been released or more will be released in the future.
+The mechanics **requirements** of a **Jeopardy-style CTF** are as follows: 
+* The competition presents players a list of challenges. 
+* The challenges should at least be labelled by category. 
+* Solving the challenge should reveal the player a flag, which follows a predictable format (defined for the competition as a whole, or per-task), and which players can submit to the organizers for points, the form in which points is calculated should be simple
+* Challenges should either all be released either all at once, or gradually. If released gradually, players should be able to know if all challenges have been released or more will be released in the future.
 
-The mechanics **requirements** of an **Attack-Defense CTF** are as follows: The competition presents players with a list of vulnerable applications. Every team has the same applications, and exploiting the vulnerability in another team's instance gives out a flag. Points are awarded for stealing a flag, and/or reduced for getting a flag stolen from your own instance. Keeping the instances running and accessible to other players is also considered in the score.
+The mechanics **requirements** of an **Attack-Defense CTF** are as follows: 
+* The competition presents players with a list of vulnerable applications. 
+* Every team has the same applications, and exploiting the vulnerability in another team's instance gives out a flag. 
+* Points are awarded for stealing a flag, and/or reduced for getting a flag stolen from your own instance. 
+* Keeping the instances running and accessible to other players is also considered in the score.
 
 ## Recommendations
 * [CTFTime](http://ctftime.org) is the de-facto authoritative list of CTF competitions. Most players expect public CTFs to be announced there with 3 weeks or more ahead of time. Exceptions might include non-competitive, advertising, or training competitions.
