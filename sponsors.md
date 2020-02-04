@@ -11,7 +11,7 @@ If your CTF schedule does not work with such a lead time, you can try emailing a
 
 ## Google Cloud Platform
 
-*We are currently working on creating a form to process sponsorship submissions. Contact google-ctf@google.com in the meantime.*.
+*Google will be sponsoring CTFs in 2020. All interested applicants should fill out the form here: https://services.google.com/fb/forms/ctfsponsorship2020/ - you can expect a response within a week.*
 
 ## Digital Ocean
 *Please submit your information through our request form **[here](https://goo.gl/forms/o3lArqe60vfnly3A2)**. Your request will be assessed by someone from the DigitalOcean Community Team in the order that it is received. Please allow up to three weeks for proper review and consideration before you hear back from someone from our team. **We kindly ask that you refrain from submitting multiple inquiries for the same sponsorship.***
